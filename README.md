@@ -56,5 +56,6 @@ Basado en el siguiente código HTML, haga un CSS para lograr un diseño específ
 
 **Resultado CSS:**
 
-![image](https://github.com/user-attachments/assets/84835380-aa32-4fb4-bc11-be468e7f3a66)
+![image](https://github.com/user-attachments/assets/325f2aa6-afc7-4372-b0bf-675a3b23ccf6)
+
 
