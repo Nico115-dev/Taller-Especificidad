@@ -8,11 +8,14 @@ Los selectores en CSS son patrones utilizados para seleccionar elementos HTML y 
 
 ## Tabla de especificidad con diferentes tipos de selectores:
 
-![image](https://github.com/user-attachments/assets/f6474df4-cffd-469d-af54-0851e0c2f5dc)
+![image](https://github.com/user-attachments/assets/0a02e334-71c9-4353-8196-61379c466267)
+
+
 
 ### PARTE 2
 
-![image](https://github.com/user-attachments/assets/5202d5b9-4219-4bb2-ab70-ef77607369a5)
+![image](https://github.com/user-attachments/assets/15650ea4-ce57-4684-ad7e-b45e29d0b906)
+
 
 - Selector de etiqueta (`p`) tiene especificidad de 1 y el color aplicado es azul.
 - Selector por clase (`.container p`) tiene especificidad de 11 y el color aplicado es verde.
@@ -24,13 +27,14 @@ Slides con ejemplos de especificidad: [Presentación de Slides](https://docs.goo
 
 ### 2.2
 
-![image](https://github.com/user-attachments/assets/9198bb49-0114-428d-ba4a-da3435e9fdbd)
+![image](https://github.com/user-attachments/assets/bd22c2d2-edc9-48b5-aa31-f6fca92ef21b)
+
 
 **Resultado final:** El color será azul porque el `!important` tiene prioridad, independientemente de la especificidad.
 
 ### PARTE 3
 
-![image](https://github.com/user-attachments/assets/8b9ed791-17ac-4995-ac2d-46c8561215c4)
+![image](https://github.com/user-attachments/assets/b98922b5-1636-48b4-a45f-cea6d32d61a7)
 
 **Pregunta:** ¿Qué color tendrá el título `<h1>`?
 
@@ -38,7 +42,7 @@ Slides con ejemplos de especificidad: [Presentación de Slides](https://docs.goo
 
 ### 3.2
 
-![image](https://github.com/user-attachments/assets/e1dbbd72-8cd5-40c0-8008-90df9ea83912)
+![image](https://github.com/user-attachments/assets/9fefd5ed-4fa3-4729-8872-72ce0f4597fe)
 
 **Modificar el siguiente código para que el párrafo tenga color amarillo sin usar `!important`.**
 
@@ -48,8 +52,9 @@ Slides con ejemplos de especificidad: [Presentación de Slides](https://docs.goo
 
 Basado en el siguiente código HTML, haga un CSS para lograr un diseño específico (El `<h1>` en el `.header` debe ser de color blanco, el texto `<p>` en `.content` debe ser rojo, el texto `<footer>` debe ser gris).
 
-![image](https://github.com/user-attachments/assets/4c75aa3c-5b5a-4e53-a04e-8f33f615317e)
+![image](https://github.com/user-attachments/assets/18cd5e5e-ff0f-4d3d-ac10-602074f3e6ca)
 
 **Resultado CSS:**
 
-![image](https://github.com/user-attachments/assets/079a4cc5-1ee0-4a01-8059-ccf31b041739)
+![image](https://github.com/user-attachments/assets/84835380-aa32-4fb4-bc11-be468e7f3a66)
+
